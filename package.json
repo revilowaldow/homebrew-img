@@ -5,9 +5,9 @@
 	"type": "module",
 	"private": true,
 	"scripts": {
-		"test:file-extensions": "test-file-extensions",
-		"test:file-sizes": "test-file-sizes",
-		"test:source-names": "test-source-names-brew",
+		"test:file-extensions": "test-img-file-extensions",
+		"test:file-sizes": "test-img-file-sizes",
+		"test:source-names": "test-img-source-names-brew",
 		"test": "npm run test:file-extensions && npm run test:file-sizes && npm run test:source-names"
 	},
 	"repository": {
